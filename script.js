@@ -41,7 +41,7 @@
         const texts = [
             "Toji Fushiguro",
             "Fresh Gradute",
-            "Fitnessmyhobbie"
+            "Agung Purwanto"
         ]
         
         let speed = 100;
